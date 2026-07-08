@@ -1,0 +1,52 @@
+# Dependencies
+vendor/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled PHP
+*.php~
+*.php.bak
+*.tmp
+
+# Build artifacts
+build/
+dist/
+node_modules/
+
+# Cache
+.cache/
+.php_cs.cache
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Composer
+composer.lock
+
+# Session
+sess_*
+
+# Uploads (if any)
+uploads/
+storage/
